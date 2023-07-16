@@ -3,7 +3,7 @@
 /*--------------------------------------------Colors*/
 
 .bg-color-name-title {
-    background-color: #676767;
+    background-color: #7e7d7d;
 }
 
 .bg-color-three-reasons {
@@ -35,7 +35,7 @@
 }
 
 .ui-menu-color-home {
-    background-color: #e67e22;
+    background-color: #71bf29;
 }
 
 .ui-menu-color-resume {
@@ -43,7 +43,7 @@
 }
 
 .ui-menu-color-contact {
-    background-color: #3498db;
+    background-color: #29BCBF;
 }
 
 .ui-menu-color-download {
@@ -65,7 +65,7 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
-    background-color: #525252;
+    background-color: #7e7d7d;
     color: #555555;
 }
 
@@ -197,7 +197,7 @@ header {
 /*--------------------------------------------Footer*/
 
 footer {
-    background-color: #525252;
+    background-color: #7e7d7d;
     color: #fafafa;
     min-height: 120px;
     margin: 0;
@@ -211,7 +211,7 @@ footer .cv-pdf i {
 }
 
 footer .cv-pdf i:hover {
-    color: #e84610;
+    color: #71bf29;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -239,7 +239,7 @@ footer .cv-pdf i:hover {
 }
 
 .social-links li a i:hover {
-    background: #e84610;
+    background: #71bf29;
 }
 
 #footer-details {
@@ -250,7 +250,7 @@ footer .cv-pdf i:hover {
 
 .three-reasons-icon {
     font-size: 26px;
-    color: #e67e22;
+    color: #71bf29;
 }
 
 .three-reasons-heading {
@@ -397,7 +397,7 @@ footer .cv-pdf i:hover {
 button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
-    background-color: #e84610;
+    background-color: #71bf29;
     color: #fafafa;
 }
 
